@@ -6,11 +6,17 @@ body{
     font-size: 16px;/* 1 rem = 10px */
 }
 
-h1{
+.titulo{
     text-align: center;
     font-size: 3.8rem;
 }
 
-span{
+h1.titulo span{
     font-size: 2rem;
+    color: blue;
+}
+
+.titulo span{
+    font-size: 2rem;
+    color: red;
 }
